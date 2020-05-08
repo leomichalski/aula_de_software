@@ -11,4 +11,5 @@ RUN pip install --default-timeout=15000 --requirement /tmp/requirements.txt && \
     fix-permissions /home/$NB_USER
 
 COPY images ./images
+COPY breast_cancer_dataset ./breast_cancer_dataset
 COPY aula_de_software.ipynb .
