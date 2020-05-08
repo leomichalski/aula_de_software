@@ -10,5 +10,5 @@ RUN pip install --default-timeout=15000 --requirement /tmp/requirements.txt && \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
 
-COPY images ./
+COPY images ./images
 COPY aula_de_software.ipynb .
