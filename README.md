@@ -1,1 +1,2 @@
-# aula_de_software
+# Introdução à Área de Software da EDRA
+## Clique aqui para acessar a aula: [link](https://mybinder.org/v2/gh/leommiranda/aula_de_software/master?filepath=aula_de_software.ipynb). 
